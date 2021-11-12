@@ -1,13 +1,23 @@
 html {
-  background-color: rgb(0, 0, 0);
+  background-color: black;
 }
 
-p {
-  font-size: 20px;
-  color: blue;
+title {
+  color: white;
+}
+
+body {
+  color: white;
 }
 
 h1 {
-  font-size: 50px;
-  color: red;
+  color: white;
+}
+
+h2 {
+  color: white;
+}
+
+p {
+  color: white;
 }
