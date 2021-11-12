@@ -1,3 +1,6 @@
+html {
+  background-color: black;
+}
 p {
   font-size: 20px;
   color: blue;
@@ -6,8 +9,4 @@ p {
 h1 {
   font-size: 50px;
   color: red;
-}
-
-html {
-  background-color: black; 
 }
